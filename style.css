@@ -1,0 +1,29 @@
+.main{
+    border: 1px solid #000;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+
+}
+.small{
+    float: left;
+    width:120px;
+    height: 90px;
+    border: 2px solid #000;
+    background-color: rgb(252, 126, 189);
+}
+.larg{
+    margin-left: 150px;
+    margin-bottom: 25px;
+    width:330px;
+    height: 90px;
+    border: 2px solid #000;
+    background-color: rgb(114, 177, 248);
+}
+
+.largest{
+    width:480px;
+    height: 70px;
+    border: 2px solid #000;
+    background-color: rgb(228, 248, 114);
+}
